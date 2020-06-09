@@ -1,0 +1,1 @@
+In this mini-project I will be deconstructing a webpage and then rebuilding it. I plan to get familiar with how elements should be placed and be able to build something in html. May be updating after I've finished this project.
